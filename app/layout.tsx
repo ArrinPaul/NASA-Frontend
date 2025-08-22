@@ -24,8 +24,8 @@ const ibmPlexMono = IBM_Plex_Mono({
 })
 
 export const metadata: Metadata = {
-  title: "Landsat Ground Truth Validator",
-  description: "Space-inspired validation platform for satellite ground truth data",
+  title: "SatTracker Pro - Satellite Tracking & Weather Monitoring",
+  description: "Advanced satellite tracking and weather monitoring system with real-time data visualization",
   generator: "v0.app",
 }
 
